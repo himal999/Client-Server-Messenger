@@ -17,7 +17,7 @@
                <VBox fx:id="vbox_message" prefHeight="248" prefWidth="412"/>
            </content>
         </ScrollPane>
-        <Label layoutX="114" layoutY="26" text="Wittcode's Messenger">
+        <Label layoutX="114" layoutY="26" text="WhatsApp Messenger">
             <font>
                 <Font name="Arial Rounded MT Bold" size="23"></Font>
             </font>
