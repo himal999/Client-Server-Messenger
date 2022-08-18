@@ -41,7 +41,7 @@ public class Controller implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         try{
-            server = new Server(new ServerSocket(1234))
+            server = new Server(new ServerSocket(1234));
         }catch (IOException e){
             e.printStackTrace();
             System.out.println("Error Server Creating");
